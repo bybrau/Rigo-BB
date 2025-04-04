@@ -9,6 +9,11 @@ def multi():
 
 multi()
 
+def mostr():
+    print("ol")
+
+mostr()
+
 def imprime():
     print("Estamos en la rama para desarollar FrontEnd")
 
