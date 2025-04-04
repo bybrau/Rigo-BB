@@ -8,3 +8,9 @@ def multi():
     print(a*b*c)
 
 multi()
+
+def mostr():
+    print("ol")
+
+mostr()
+
